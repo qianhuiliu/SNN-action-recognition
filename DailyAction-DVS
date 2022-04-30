@@ -1,2 +1,4 @@
 The DailyAction-DVS dataset is stored in this link:
 https://drive.google.com/drive/folders/1JrYJnikaJdiNgq5Zz5pwbN-nwns-NNpz?usp=sharing
+
+Results reported in the paper “Event-based Action Recognition Using Motion Information and Spiking Neural Networks” are obtained with 80% of each category randomly selected for training and the rest for testing. 
